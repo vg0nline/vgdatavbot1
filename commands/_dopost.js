@@ -9,9 +9,9 @@
 CMD*/
 
 let newRow = {
-  'Country': User.getProperty("country"),
-  'Age': User.getProperty("age"),
-  'Do you like Bots.Business?': User.getProperty("liked")
+  'Name': User.getProperty("name"),
+  'Slp': User.getProperty("slp"),
+  'Total': User.getProperty("total")
 }
 
 let prms = {
